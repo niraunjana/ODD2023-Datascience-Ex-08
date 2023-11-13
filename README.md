@@ -27,7 +27,8 @@ import pandas as pd
 df=pd.read_csv("/content/Superstore.csv",encoding='unicode_escape')
 df.head()
 ```
-image image
+![image](https://github.com/niraunjana/ODD2023-Datascience-Ex-08/assets/119395610/bc3615fc-c5db-4006-8ab0-83c540fe1398)
+
 
 #DATA VISUALIZATION USING SEABORN :
 ```
